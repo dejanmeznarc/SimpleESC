@@ -14,7 +14,7 @@
       "email": "dejan@meznarc.si",
       "url": "http://meznarc.si",
       "maintainer": true
-    },
+    }
   ],
   "dependencies":{},
   "version": "1.0.0",
