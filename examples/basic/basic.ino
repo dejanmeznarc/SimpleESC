@@ -1,5 +1,5 @@
-#include <Arduino.h>
-#include "SimpleESC.h"
+
+#include <SimpleESC>
 
 
 // specify the pin here
@@ -40,4 +40,5 @@ void loop() {
 
 
 }
+
 
