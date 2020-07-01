@@ -1,4 +1,5 @@
 # Simple ESC
+![PlatformIO compile](https://github.com/dejanmeznarc/SimpleESC/workflows/PlatformIO%20compile/badge.svg)
 Library for ESP chips only!
 
 Library enables communication to ESCs using PWM on steroids.
@@ -31,3 +32,4 @@ This library uses 3 ms insted.
 ## Tested
 * Charisse yellow 30A ESCs (unbranded)
 * SimonK 30A
+
