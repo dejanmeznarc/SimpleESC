@@ -39,5 +39,11 @@ void loop() {
     delay(5000);
 
 
+    // Read last thing that was written to motor.
+    if(motor.read() > 1000){
+        // do something
+    }
+
+
 }
 

@@ -34,6 +34,8 @@ public:
 
     void detach();
 
+    unsigned long read();
+
 private:
     const uint8_t _pin;
     unsigned long  _valueUs;
