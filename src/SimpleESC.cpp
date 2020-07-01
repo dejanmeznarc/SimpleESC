@@ -38,3 +38,7 @@ void SimpleESC::write(unsigned long microseconds) {
     }
 
 }
+
+unsigned long SimpleESC::read() {
+    return _valueUs;
+}
