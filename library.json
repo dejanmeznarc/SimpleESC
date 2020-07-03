@@ -1,5 +1,5 @@
 {
-  "name": "SimpleESC",
+  "name": "Simple ESC",
   "keywords": "ESC, BLDC, costom, motors",
   "description": "Arduino Library for controling ESCs",
   "repository": {
@@ -13,7 +13,7 @@
     "maintainer": true
   },
   "dependencies": {},
-  "version": "1.1.0",
+  "version": "2.0.0",
   "frameworks": "arduino",
   "platforms": "espressif8266"
 }
